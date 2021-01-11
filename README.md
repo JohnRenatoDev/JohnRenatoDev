@@ -9,4 +9,4 @@ I'm a Brazilian Full-Stack Software Developer. I currently work for an incredibl
 | 
 [![Icloud Badge](https://img.shields.io/badge/-joao.russio@deeztech.com.br-3395ec?style=flat-square&logo=Icloud&logoColor=white&link=mailto:joao.russio@deeztech.com.br)](mailto:joao.russio@deeztech.com.br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRenatoDev&theme=graywhite&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRenatoDev&theme=prussian&layout=default)
