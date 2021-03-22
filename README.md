@@ -1,6 +1,6 @@
 ### John Russio 🚀
 
-I'm a Brazilian Full-Stack Software Developer. I currently work for an incredible company called ModalGR, and as a side job I am a co-founder of DeezTech an agency focused on WordPress.
+I'm a Brazilian Full-Stack Software Developer. I currently work for an incredible company called ModalGR. As side job I am the co-founder of DeezTech an agency focused on WordPress.
 
 - 🔭 I’m currently working on ModalGR
 - 🌱 I’m currently learning Flutter
