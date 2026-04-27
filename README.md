@@ -1,6 +1,6 @@
 ### John Russio 🚀
 
-I'm a Brazilian Full-Stack Software Developer. I currently work for an incredible company called Mosten. As side job I am the co-founder of DeezTech an agency focused on WordPress.
+I'm a Brazilian Full-Stack Software Developer. I currently work for an incredible company called Mosten.
 
 - 🔭 I’m currently working at Mosten
 - 🌱 I’m currently learning AI
