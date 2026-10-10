@@ -19,7 +19,8 @@ I work on software architecture and applied AI, with the product in mind. I like
 #### Tools I reach for
 
 `TypeScript` `Node.js` `.NET` `Python` `Go` `Laravel`<br>
-`React` `Angular` `PostgreSQL` `Docker` `Azure` `AWS`
+`React` `Angular` `PostgreSQL` `Docker` `Azure` `AWS`<br>
+`AI` `LLMs` `Codex` `Claude`
 
 ---
 
