@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">João Russio</title><desc id="desc">Software architecture, applied AI and indie building. A schematic connects understand, build and simplify.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#303433"/></pattern></defs>
+<rect width="1200" height="360" rx="12" fill="#101213"/>
+<rect x="735" y="0" width="465" height="360" fill="url(#grid)"/>
+<g fill="#9b9e9c" font-family="'SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="1.3"><text x="46" y="49">/ JohnRenatoDev</text><text x="46" y="315" font-size="13">SANTOS, BRAZIL</text></g>
+<text x="41" y="157" font-family="'Avenir Next',Avenir,'Segoe UI',sans-serif" font-weight="700" font-size="88" letter-spacing="-5" fill="#f4f4ef">João Russio<tspan fill="#fb7547">.</tspan></text>
+<text x="46" y="210" font-family="'Avenir Next',Avenir,'Segoe UI',sans-serif" font-size="28" font-weight="500" fill="#f4f4ef">Building software. Leading people.</text>
+<text x="46" y="252" font-family="'SFMono-Regular',Consolas,monospace" font-size="15" fill="#9b9e9c">architecture / applied ai / indie building</text>
+<path d="M46 282H669" stroke="#303433"/>
+<text x="669" y="315" text-anchor="end" fill="#fb7547" font-family="'SFMono-Regular',Consolas,monospace" font-size="13">less is more_</text>
+<g fill="none" stroke="#303433" stroke-width="1.3"><path d="M805 81H1137V281H805Z"/><path d="M827 59H1159V259"/><path d="M783 103V303H1115"/></g>
+<g stroke="#fb7547" fill="none" stroke-width="2"><path d="M841 123H932V181H1007V239H1100"/><path d="M955 123H1113V181H1090" opacity=".3"/><path d="M841 181H896V239H984" opacity=".3"/></g>
+<g fill="#101213" stroke="#fb7547" stroke-width="2"><circle cx="841" cy="123" r="6"/><circle cx="1007" cy="181" r="6"/><circle cx="1100" cy="239" r="6"/></g>
+<g fill="#f4f4ef" font-family="'SFMono-Regular',Consolas,monospace" font-size="14"><text x="836" y="154">understand</text><text x="1000" y="212">build</text><text x="1087" y="270" text-anchor="end">simplify</text></g>
+<g fill="#9b9e9c" font-family="'SFMono-Regular',Consolas,monospace" font-size="11"><text x="840" y="107">01</text><text x="1007" y="165">02</text><text x="1100" y="223">03</text></g>
+</svg>
