@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-profile-assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-profile-assets/hero-light.svg">
-  <img alt="João Russio — software architecture, applied AI and indie building." src="github-profile-assets/hero-dark.svg" width="100%">
-</picture>
+<img alt="João Russio — building software, leading people. Architecture, applied AI, indie builder. Understand, build, simplify." src="github-profile-assets/hero-dark.png" width="100%">
 
 ### About me
 
